@@ -3,7 +3,7 @@ import { FooterSocials } from './FooterSocials';
 
 export const Footer = () => {
   return (
-    <footer className="bg-orange-500  text-white py-8">
+    <footer className="bg-secondary text-white py-8">
       <div className="container mx-auto px-4">
         <div className="flex flex-wrap">
           <FooterSocials />

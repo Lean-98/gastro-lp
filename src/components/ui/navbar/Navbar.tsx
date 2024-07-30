@@ -4,7 +4,7 @@ import { navItems } from '../../../constants/navItems.constant';
 
 export const Navbar = () => {
   return (
-    <nav className="bg-orange-500 p-4">
+    <nav className="bg-primary p-4">
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
         <div className="flex items-center text-white text-2xl font-normal gap-1">
           GastroTop
@@ -15,7 +15,7 @@ export const Navbar = () => {
             <li className="list-none" key={path}>
               <Link
                 to={path}
-                className="cursor-pointer text-white hover:bg-orange-300 px-1 py-2 rounded transition-all"
+                className="cursor-pointer text-white hover:bg-accent px-1 py-2 rounded transition-all"
               >
                 {text}
               </Link>

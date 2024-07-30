@@ -1,3 +1,10 @@
+import { ProductDetail, ProductList } from '../../components';
+
 export const CatalogPage = () => {
-  return <div>Catalog</div>;
+  return (
+    <>
+      <ProductDetail />
+      <ProductList />
+    </>
+  );
 };
