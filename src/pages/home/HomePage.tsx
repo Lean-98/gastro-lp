@@ -5,7 +5,7 @@ import foodGourmet from '../../assets/homewp.png';
 
 export const HomePage = () => {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-between bg-light py-12 px-6 md:px-12">
+    <div className="flex h-5/6 flex-col md:flex-row items-center justify-between bg-light py-12 px-6 md:px-12">
       <div className="md:w-1/2">
         <h1 className="text-3xl md:text-5xl font-bold text-gray-800 mb-4">
           Good food choices are good investments.
@@ -31,7 +31,7 @@ export const HomePage = () => {
           </Link>
         </div>
       </div>
-      <div className="md:w-1/2 mt-8 md:mt-0 flex justify-center">
+      <div className="w-[350px] sm:w-1/2 py-32 md:py-0 flex justify-center">
         <img className="rounded-2xl" src={foodGourmet} alt="Gourmet food" />
       </div>
     </div>

@@ -24,7 +24,8 @@ export const ProductItem: React.FC<ProductItemInferface> = ({
       </p>
       <ProductCounterItem />
       <span className="font-semibold text-2xl text-orange-500 my-6">
-        {price} <del className="font-medium text-gray-400">{discountPrice}</del>
+        ${price}{' '}
+        <del className="font-medium text-gray-400">{discountPrice}</del>
       </span>
       <Button className="w-7/12 md:w-10/12 text-center mb-8" text="Order Now" />
     </div>
