@@ -24,7 +24,7 @@ GastroTop es una landing page diseñada para un negocio gastronómico, construid
 
 Puedes ver el sitio web en producción en el siguiente enlace:
 
-[Visita Gastrotop en Vivo](https://gastro-famtfo674-leandros-projects-db13190f.vercel.app/)
+[Visita Gastrotop en Vivo](https://gastro-pcb67jvmb-leandros-projects-db13190f.vercel.app/)
 
 ## Instalación
 
