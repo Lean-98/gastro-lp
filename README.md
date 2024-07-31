@@ -20,6 +20,12 @@ GastroTop es una landing page diseñada para un negocio gastronómico, construid
 ![Yup](https://img.shields.io/badge/Yup-crimson?style=for-the-badge&logo=Yup&logoColor=fff)
 ![React Router](https://img.shields.io/badge/React_Router-000?style=for-the-badge&logo=reactrouter&logoColor=fff)
 
+## Live
+
+Puedes ver el sitio web en producción en el siguiente enlace:
+
+[Visita Gastrotop en Vivo](https://gastro-famtfo674-leandros-projects-db13190f.vercel.app/)
+
 ## Instalación
 
 Para ejecutar este proyecto localmente, sigue estos pasos:
